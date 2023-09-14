@@ -11,6 +11,8 @@ Funzionalità implementate: regole complete + CLI
 
 
 -----from: \OneDrive\Desktop\ing-sw-2021-Ferrario-Favero-Conca\deliverables\final\jar>
+
+
 CLIENT on Windows 10:
 java -jar server-PSP21-1.0-SNAPSHOT.jar
 LAPTOP-N8T657MS/192.168.56.1
