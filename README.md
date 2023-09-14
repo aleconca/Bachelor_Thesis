@@ -1,11 +1,32 @@
 **Master of Renaissance Digital Twin**
 
-This is the "Master of Renaissance" Java application. This software brings the classic board game "Master of Renaissance" to the digital realm.
+This is the "Master of Renaissance" Java application. This project implements, tests, and documents a Java application inspired by the popular board game "Master of Renaissance." The primary objectives of this project were to evaluate students' proficiency in applying Object-Oriented paradigms, specifically the Model-View-Controller (MVC) design pattern, and their understanding of Socket/RMI architecture.
 
 
->Introduction_
+>About "Master of Renaissance" Board Game:
 
-"Master of Renaissance" is a popular board game known for its engaging gameplay, where players compete to become the most influential and prosperous citizens of the Renaissance era. In this digital twin application, we aim to recreate the essence of the board game.
+"Master of Renaissance" is a captivating board game known for its strategic gameplay. In the game, players compete to become influential and prosperous citizens during the Renaissance era. They make decisions related to resource management, investments, and technological advancements to outsmart their opponents.
+
+>Project Objectives:
+
+The key objectives of this project were as follows:
+
+-Implement the Game Logic: Create the core game logic that simulates the "Master of Renaissance" board game, allowing players to interact with the digital version.
+
+-Apply MVC Design Pattern: Demonstrate a strong understanding of the Model-View-Controller (MVC) architectural pattern by organizing the codebase accordingly.
+
+-Utilize Socket/RMI Architecture: Implement networking functionality using either Sockets or Remote Method Invocation (RMI) to enable multiplayer gameplay.
+
+-Testing and Documentation: Ensure that the application is thoroughly tested for correctness and reliability. Create comprehensive documentation to aid users and future developers.
+
+>Project Structure:
+
+The project is structured as follows:
+
+src/: Contains the Java source code for the application, organized into model, view, and controller packages following the MVC pattern.
+derivables/: Includes documentation, uml and jars of the clint and the server.
+tests/: Houses unit tests and test cases to validate the functionality of the application.
+
 
 
 >Group components:
