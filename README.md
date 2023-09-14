@@ -34,7 +34,7 @@ tests/: Houses unit tests and test cases to validate the functionality of the ap
 
 >Group components:
 
-Iacopo Roberto Ferrario , Alessia Conca Roncari , Anastasia Favero
+Alessia Conca Roncari, Anastasia Favero, Iacopo Roberto Ferrario.
 
 
 >Personal note on how to start the jars:
