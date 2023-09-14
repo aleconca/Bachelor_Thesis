@@ -23,7 +23,10 @@ The key objectives of this project were as follows:
 
 The project is structured as follows:
 
-src/: Contains the Java source code for the application, organized into model, view, and controller packages following the MVC pattern.
+client/: Contains the Java source code for the application client.
+server/: Contains the Java source code for the application server.
+exceptions/: contains Java source to handle special cases that could arise during the game.
+network/:Contains the Java code to handle the game connection.
 derivables/: Includes documentation, uml and jars of the clint and the server.
 tests/: Houses unit tests and test cases to validate the functionality of the application.
 
