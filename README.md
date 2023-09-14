@@ -1,6 +1,19 @@
-# ing-sw-2021-Ferrario-Favero-Conca
+**Master of Renaissance Digital Twin**
 
-Componenti gruppo: Iacopo Roberto Ferrario , Alessia Conca Roncari , Anastasia Favero
+This is the "Master of Renaissance" Java application. This software brings the classic board game "Master of Renaissance" to the digital realm.
+
+
+>Introduction_
+
+"Master of Renaissance" is a popular board game known for its engaging gameplay, where players compete to become the most influential and prosperous citizens of the Renaissance era. In this digital twin application, we aim to recreate the essence of the board game.
+
+
+>Group components:
+
+Iacopo Roberto Ferrario , Alessia Conca Roncari , Anastasia Favero
+
+
+>Personal note on how to start the jars:
 
 Il jar del server verrà eseguito da cmd su sistema operativo Windows 10
 
