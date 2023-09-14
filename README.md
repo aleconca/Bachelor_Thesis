@@ -23,4 +23,12 @@ Welcome to MASTER OF RENAISSANCE Game!
 To create a game or connect with your friends, please fill the following fields ^_^
 Type username: ape
 Type ip server: 192.168.56.1
-Type port number: 139 <-verify this
+Type port number: 
+
+
+---from windows cmd: C:\Users\User> netstat -ano
+  TCP    192.168.56.1:139 //this didn't work
+  UDP    192.168.56.1:5353      *:*                                 
+  UDP    192.168.56.1:5353      *:*                                  
+  UDP    192.168.56.1:51791     *:*                                  
+  UDP    [::]:5353
